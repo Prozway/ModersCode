@@ -1,0 +1,5 @@
+ QuickCupScript is a project inspired by @fus3n with the project of CupScript & The coding language C witha little bit of Lua
+ 
+Veiw CupScript https://github.com/Fus3n/cupscript?adlt=strict&toWww=1&redig=4B4AF9F6DBC247098C7C8BEC99A061A5
+
+This language is used for general use it is a bit basic & Advanced or in the middle. Try using this coiding language! And do not firget to have fun!
